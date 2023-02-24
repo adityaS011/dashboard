@@ -1,8 +1,8 @@
 #  Dashboard
-TYPE NPM INSTALL 
-TYPE NPM START
-TYPE NPM RUN BUILD
--AS
+TYPE NPM INSTALL to begin,
+TYPE NPM START to run on browser,
+TYPE NPM RUN BUILD to createa hostable version
+
 
 
 
